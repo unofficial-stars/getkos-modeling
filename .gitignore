@@ -1,7 +1,10 @@
 # mydata
 SCRAPPINGDATA
 merged_kota_drop_dupl.csv
+merged_data - Sheet7.csv
 transform_1.csv
+transform_2.csv
 
 # notebook
 read_n_parse_data.ipynb
+.ipynb_checkpoints/
