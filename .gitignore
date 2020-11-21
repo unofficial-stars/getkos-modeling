@@ -11,3 +11,9 @@ read_n_parse_data.ipynb
 .ipynb_checkpoints/
 
 .DS_Store
+
+# model
+dnn_model/
+getkos_model/
+model_dnn_regression.tflite
+model_getkos_regression.tflite
