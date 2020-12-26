@@ -10,6 +10,8 @@ pandas
 imageio
 git+https://github.com/keras-team/keras-tuner.git
 autokeras
+openpyxl
+xlrd
 
 # conda install -c anaconda cudatoolkit=10.1
 # conda install -c anaconda cudnn
