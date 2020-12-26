@@ -24,5 +24,14 @@ model_getkos_regression.tflite
 
 model_autokeras/
 model_getkos_regression_2020_12_13.tflite
+model_getkos_regression_2020_12_26.tflite
 
 data/
+
+models_saved_data/
+getkos_nas/
+
+
+df_encode_rd.csv
+df_rd.csv
+new_mapping_cek - Sheet1.csv
